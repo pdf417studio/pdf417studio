@@ -1,18 +1,10 @@
 <a id="readme-top"></a>
 
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Unlicense License][license-shield]][license-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://pdf417studio.com">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  ![demoGif](https://github.com/user-attachments/assets/e067d89b-8359-4d7f-b239-2e64b8cd55cf)
+
 
   <h3 align="center">PDF417 Studio</h3>
 
@@ -21,10 +13,6 @@
     <br />
     <a href="https://pdf417studio.com"><strong>Visit Website »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/your_username/pdf417studio/issues">Report Bug</a>
-    &middot;
-    <a href="https://github.com/your_username/pdf417studio/issues">Request Feature</a>
   </p>
 </div>
 
