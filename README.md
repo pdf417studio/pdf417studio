@@ -3,7 +3,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  ![demoGif](https://github.com/user-attachments/assets/e067d89b-8359-4d7f-b239-2e64b8cd55cf)
 
 
   <h3 align="center">PDF417 Studio</h3>
