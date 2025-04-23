@@ -22,8 +22,6 @@
     <a href="https://pdf417studio.com"><strong>Visit Website »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/your_username/pdf417studio">View Code</a>
-    &middot;
     <a href="https://github.com/your_username/pdf417studio/issues">Report Bug</a>
     &middot;
     <a href="https://github.com/your_username/pdf417studio/issues">Request Feature</a>
